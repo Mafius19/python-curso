@@ -1,0 +1,3 @@
+Hola, soy un archivo creado en python
+ bienvenido a mi curso de python
+Soy una linea agregada con el modo a
